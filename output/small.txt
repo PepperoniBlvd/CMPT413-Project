@@ -1,0 +1,11 @@
+Premise|Hypothesis|Label
+A father and his daughter are riding a lawn mover down a street while dressed in American colors.|two people ride a lawn mower outside|0
+There are five singers on a stage, three women and two men.|There are more females than males.|0
+Men are playing rugby while covered in mud.|There is mud on the rugby players.|0
+A professional baseball catcher and behind him an umpire are knelt in action position and are awaiting the pitch.|There are a group of people hiking Mt Fiji.|2
+Six or seven people are standing on a pier with a table and a pair of glasses in the foreground.|Six or seven people are standing on a pier.|0
+Two girls feeding a horse an apple.|Two girls are near an animal.|0
+Shipyard workers are standing around.|Shipyard workers are standing on the docks|1
+Two dogs stand side by side in the yard.|Two dogs sitting on the porch.|2
+An older man leans against a pedestal outside of an ornate building.|An older man is leaning outside his nursing home|1
+A young male is running while playing tennis against another person.|An old woman sits on a bench.|2
